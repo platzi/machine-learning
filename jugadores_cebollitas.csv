@@ -1,0 +1,21 @@
+jugador_id,nombre,posición,edad,partidos_jugados,goles,asistencias,pases_completados (%),tiros_al_arco,precisión_tiros (%),minutos_jugados
+1,Tara Alvarez,Portero,18,25,2,5,89.0,8,78.2,2125
+2,Carol Mcclain,Mediocampista,32,12,2,8,77.5,49,68.5,1032
+3,Robert Martin,Defensa,26,12,4,5,87.3,1,71.4,816
+4,Mr. Robert Turner,Defensa,25,17,2,4,75.9,9,35.8,1496
+5,Christopher Kennedy,Defensa,35,23,1,7,83.5,0,0.0,2047
+6,Dr. Justin Anderson,Mediocampista,33,16,3,3,86.5,40,75.9,1200
+7,Sandra Shepherd,Portero,35,23,4,2,90.2,2,51.2,2070
+8,Mark Bowers,Mediocampista,28,14,5,4,81.1,50,79.6,910
+9,Kenneth Cook,Portero,25,15,2,0,86.8,0,0.0,1035
+10,Christopher Parks,Portero,26,12,4,10,78.7,7,63.6,1032
+11,Michelle Henderson,Defensa,35,17,0,8,89.0,10,33.1,1411
+12,Steven Wallace,Defensa,18,15,3,8,83.0,5,68.4,1320
+13,Christina Hardy,Defensa,22,15,4,7,85.9,5,51.5,1335
+14,John Duffy,Portero,20,14,2,3,87.5,0,0.0,938
+15,John Weeks,Defensa,35,23,4,4,90.7,2,74.2,1403
+16,Jose Dodson,Mediocampista,23,22,5,3,79.6,48,36.4,1452
+17,Jessica Harris,Defensa,19,14,4,0,81.6,6,74.7,1134
+18,Sarah Watkins,Mediocampista,21,10,1,4,83.3,14,40.3,710
+19,Richard Glover,Mediocampista,26,24,2,4,72.2,9,76.7,1560
+20,Alan Padilla,Mediocampista,33,25,3,0,75.5,37,50.7,2150
